@@ -41,6 +41,7 @@ body {
 }
 
 #title {
+  padding: 20px;
   position: absolute;
   width: 100%;
   text-align: center;
@@ -52,7 +53,7 @@ body {
     -webkit-background-clip: text;
     background-clip: text;
     color:transparent;
-  text-shadow: 1px 1px #d4af37;
+  /* text-shadow: 1px 1px #d4af37; */
   font-family: "Style Script", cursive, sans-serif;
 }
 #queryarea {
