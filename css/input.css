@@ -49,7 +49,7 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
 /*   color: #ffd700; */
-  -webkit-text-stroke: #222;
+/*   -webkit-text-stroke: #222; */
     -webkit-background-clip: text;
     background-clip: text;
     color:transparent;
