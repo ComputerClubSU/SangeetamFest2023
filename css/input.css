@@ -48,12 +48,12 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-/*   color: #ffd700; */
+  color: goldenrod;
 /*   -webkit-text-stroke: #222; */
-    -webkit-background-clip: text;
+/*     -webkit-background-clip: text;
     background-clip: text;
-    color:transparent;
-  /* text-shadow: 1px 1px #d4af37; */
+    color:transparent; */
+  text-shadow: 1px 1px #d4af37;
   font-family: "Style Script", cursive, sans-serif;
 }
 #queryarea {
